@@ -2,9 +2,9 @@
 
 This project implements **Wave Function Collapse (WFC) for procedural terrain generation**, allowing for modular and structured environments. Users can control terrain generation settings dynamically and explore the scene from a **first-person flying perspective**.  
 
-📺 **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=CmklsksHa-w)  
+📺 **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=A5eJCKZ9dIU)  
 
-[![Watch the video](https://img.youtube.com/vi/CmklsksHa-w/0.jpg)](https://www.youtube.com/watch?v=CmklsksHa-w)
+[![Watch the video](https://img.youtube.com/vi/A5eJCKZ9dIU/0.jpg)](https://www.youtube.com/watch?v=A5eJCKZ9dIU)
 
 ## 🌄 Features  
 - **Wave Function Collapse (WFC) Terrain Generation** – Creates structured terrain based on adjacency rules  
